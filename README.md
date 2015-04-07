@@ -1,6 +1,6 @@
-# scribus-manual-first-steps
+# First steps with Scribus
 
-First steps with Scribus. The manual you should read while doning your first steps with Scribus.
+The manual you should read while doing your first steps with Scribus.
 
 ## License
 
