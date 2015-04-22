@@ -1,0 +1,20 @@
+- Introduction
+- Anpassen/Tweak some basic preferences
+  - Choose the UI language
+  - Define the measurement unit
+  - Choose the correct default page size
+  - Pick a list of page sizes
+- Cleanup the user interface
+  - Maximize the application window
+  - Place the properties palette
+  - Hide most toolbars but the tools one
+  - Move the tools toolbar to the left
+- Further Anpassungen/Tweaks to the preferences
+  - Disable the startup dialog
+  - Set the default page margins
+  - Setup the text tool
+  - Setup the image tool
+  - Define the hyphenation language
+  - Setup the Preflight verifier
+- Further topics
+  - Color, fonts, ...
