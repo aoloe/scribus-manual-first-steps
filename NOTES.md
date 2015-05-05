@@ -43,4 +43,11 @@ Allow entries in the toc that do not lead to an own file but to the anchor on th
   - set the Preflight verifier to check for the most common PDF version for you. if in doubt choose 1.4 (really?).
 - Colors, fonts, ...
   - You should not bother about them in your first steps with Scribus please refer to...
+- Your first document
+  - If you have not done so yet, it's time to create your first document
+  - some clue on what to take care
+  - `file > new`
+  - text goes into text frames, images in image frames
+  - scribus does not dynamically create the pages for you. you can define the number of pages -- if you already now it: this is common for small brochures -- when creating the document or add pages as you need thorugh `page > insert`.
+  - you fill find answers to your most likely questions in the "second steps" document.
 - what is scribus / what scribus is not / what scribus might be (if you are creative)
