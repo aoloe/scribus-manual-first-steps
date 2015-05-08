@@ -62,7 +62,7 @@ As the default value, you want to choose the one you will be using the most:
 
 ## Pick a list of page sizes
 
-In Scribus 1.6 the list of page sizes shown by default is reduced to a minimum. This section will be removed from the 1.4 branch as soon it gets created and only left in the master branch.
+TODO: In Scribus 1.6 the list of page sizes shown by default is reduced to a minimum. This section will be removed from the 1.4 branch as soon it gets created and only left in the master branch.
 
 While Scribus knows about lot of different page sizes, only few are shown by default in the list. Depending on the habits of your local print industry, you will want to add a few more:
 
@@ -73,3 +73,5 @@ While Scribus knows about lot of different page sizes, only few are shown by def
   - and A1 and A2 if you plan to create big posters.
 - If you're in the US, UK or Canada you can add:
   - TBC
+
+You don't have to add all the formats you could possibly want to use in the future, just the you're likely to use: you can always come back to the preferences and add further formats!
