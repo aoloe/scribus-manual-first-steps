@@ -1,5 +1,7 @@
 - Introduction
+- Requirements
 - Anpassen/Tweak some basic preferences
+  - The preferences dialog
   - Choose the UI language
   - Define the measurement unit
   - Choose the correct default page size
@@ -17,4 +19,8 @@
   - Define the hyphenation language
   - Setup the Preflight verifier
 - Further topics
+  - The missing Ghostscript
   - Color, fonts, ...
+- Trying it out
+- Getting in touch
+- Getting Scribus
