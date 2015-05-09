@@ -49,7 +49,8 @@ Three things are worth being mentioned:
 
 - Some measurement are always shown in points (like the font size).
 - You can use any of the units in any field that expects one and it will be automatically converted to the default one you have selected (you can type `2 cm` in a field that says `10 mm` and it will automatically be converted to `20 mm`)
-- We suggest to use Millimeters rather than Centimeters: sometimes you will need a higher precision than a millimeter: you don't want to type or see `0.005 cm` for half a millimeter!
+- We suggest to use Millimeters rather than Centimeters: sometimes you will need a higher precision than a millimeter: you don't want to type or see `0.005 cm` for half a millimeter!  
+  TODO: add an animated gif showing it
 
 ## Choose the correct default page size
 
