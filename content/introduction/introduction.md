@@ -18,20 +18,3 @@ Those changes aim at:
 None of the steps mentionend here are strictly necessary, you can skip any of them at your will. Still we suggest that you go through them and apply them: you can always come back and undo each of them, if you think that they do not match the way you are using your computer.
 
 One last remark: going through this book will take 20 minutes to one hour, depending on how fast you are and how throughly you will be reading it.
-
-
-
-les organisateurs locaux ont des idées très intéressantes et peut-être quelque chose d'intéressant peut en sortir, mais ils ont aussi pas mal de peine à gérer le côté pratique...
-
-pour l'instant je suis "en charge" du graphisme mais j'ai besoin d'alliés...
-
-concrétement:
-
-- donc la première question c'est: allez vous être présent?
-  - oui
-
-- est-ce que vous avez des idées sur quel public cible pourrait être adéquat pour le graphsime (dans le cadre du "thème" libre et change). est-ce que tu / vous seriez disponibles pour un brainstorming?
-  - yep
-  - jusqu'à dimanche soir mes non-disponibilités sont: ce soir de 19:15 à 22:30 et dimanche de 14:30 à 17:30 et 20:00 à 22:00.
-  - la semaine prochaine je suis libre le lundi soir, le mercredi après 20:00... et le weekend avec les mêmes horaires que ces deux prochains jours.
-yemanjalisa> ok je verrai ce soir avec cedric qd il serai dispo. Ce soir on a bugr donc je pense que c'est rapé
