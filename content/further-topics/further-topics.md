@@ -1,8 +1,8 @@
-# Further topics
+# Urgent topics
 
-This handbook only covers the very first configuration of your copy of Scribus.
+This handbook only covers the very first steps with Scribus.
 
-We don't want to make this document larget than what is strictly need, but we know that many new user are very eager to progress and tend to have lot of questions.
+For sure we cannot answer here every possible question you might have had during your first steps with Scribus. We don't want to make this document larget than what is strictly need, but we know that many new user are very eager to progress and tend to have lot of questions.
 
 Here are some pointers to the specific documentations for some of the most frequent asked questions:
 

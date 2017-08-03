@@ -1,16 +1,10 @@
 # Tweak some basic preferences
 
-In this chapter you will go change a few settings so that Scribus is better angepass to  what is commonly used in your place and language.
-
-After having started Scribus, you will see the following dialog:
-
-![Close the "New Document" default dialog.](images/boot-file-new.png)
-
-If you have already closed it, don't worry: our next step is to close it by pressing `Ok` or `Cancel`. We don't a document to be open so you can press any of both.
+In this chapter you will go change a few settings so that Scribus better matches the standards in your place and language.
 
 ## The preferences dialog
 
-Now, you're ready to open the preferences dialog from the file `File` menu:
+From the file `File` menu:
 
 ![Use the menu to Open the Preferences dialog.](images/menu-file-preferences.png)
 
