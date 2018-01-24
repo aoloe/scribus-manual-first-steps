@@ -1,12 +1,12 @@
 # Tweak some basic preferences
 
-In this chapter you will go change a few settings so that Scribus is better angepass to  what is commonly used in your place and language.
+In this chapter we will suggest a few changes to the settings that make Scribus better angepasst to  what is commonly used in your place and language.
 
 After having started Scribus, you will see the following dialog:
 
 ![Close the "New Document" default dialog.](images/boot-file-new.png)
 
-If you have already closed it, don't worry: our next step is to close it by pressing `Ok` or `Cancel`. We don't a document to be open so you can press any of both.
+If you have already closed it, don't worry: our next step is to close it by pressing `Ok` or `Cancel`. We don't need a document to be open so you can press any of both.
 
 ## The preferences dialog
 
@@ -17,10 +17,10 @@ Now, you're ready to open the preferences dialog from the file `File` menu:
 
 ![The Preferences dialog.](images/dialog-preferences.png)
 
-The Preferences dialog sets the settings Scribus will use for all future documents (not the one currently open, if any) and those that cannot relate to specific documents (like the user interface language).  
-It's worth to mention that some settings can only be changed if no document is open (like the list the directories containing your fonts)
+The Preferences dialog defines the settings Scribus will use for all future documents (not the one currently open, if any). On top of it, it contains settings that that do not relate to specific documents (like the user interface language).  
+It's worth to mention that there are a few settings that can only be changed if no document is open (like the list the directories containing your fonts).
 
-On the left side of the dialog you see a list of sections, the "General" one being automatically activated.
+The preferences are divided in sections. You have a list of them on the left side of the dialog. The "General" section is the one being automatically activated.
 
 ## Choose the UI language
 
@@ -30,9 +30,9 @@ If your not comfortable with the language Scribus is currently using for its use
 
 ![Selecting the language for the user interface.](images/dialog-preferences-language.png)
 
-Most of the translations are up to date and complete. If some parts are not translated, they will be shown in English.
+Most of the translations are up to date and complete. If some parts are not translated, they text will be shown in English.
 
-If you find errors or missing translations in your preferred language, don't hesitate to get in touch with the Scribus developers (see the [Getting in touch]() chapter towards the end of this handbook).
+If you find errors or missing translations, don't hesitate to get in touch with the Scribus developers (see the [Getting in touch]() chapter towards the end of this handbook).
 
 ## Define the measurement unit
 
