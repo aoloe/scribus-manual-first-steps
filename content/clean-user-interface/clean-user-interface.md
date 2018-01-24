@@ -30,7 +30,7 @@ It's a good idea to always have this palette at the same place and keeping it as
 TODO: add an animated gif showing how to display, move to the right, resize and hide the properties palette.
 
 
-You should not place the properties palette to the right of the main Scribus window, but on top of it, at its right side. While it's displayed, the palette will cover parts of your work, but will give you the full width when it's hidden.
+You should not place the properties palette to the right of the main Scribus window, but on top of it, at its right side. While it's displayed, the palette will cover parts of your work, but your document will use the full width when it's hidden.
 
 As you can see next to the `Windows > Properties` menu entry, you can use the `F2` function key to show and hide the Properties palette.
 
@@ -38,16 +38,16 @@ TODO: for 1.6 explain how to dock the palette instead of placing it on top of th
 
 ## Hide and show the palettes
 
-As we have just seen for the Properties palette, it's "ratsam" to only keep the Scribus open dialog open for the time they are strictly needed.
+As we have just seen for the Properties palette, it's "ratsam" to only keep the dialogs and windows open for the time they are strictly needed.  
 
-Some other important dialogs that you're also likely to use in a very intensive way for a short time and then won't need during the next task are:
+Some other important dialogs that you're also likely to use in a very intensive way for a short time are:
 
 - the style manager (`Edit > Styles...`, F3)
 - align and distribute (`Windows > Align and Distribute`)
 - scrapbook (`Windows > Scrapbook`)
 - layers (`Windows > Layers`, `F6`)
  
-Try as much as possible to avoid keeping moving the windows around: put them in a place that is comfortable to you and always have them at the same place: it will help you being faster and less stressed when using them.
+Try as much as possible to avoid moving the windows around: put them in a place that is comfortable to you and always have them at the same place: it will help you being faster and less stressed when using them.
 If they are in your way change the displayed are of the document and close the dialogs that you not need at this very moment.
 
 When they are available, you should learn the shortcuts. You can find them in the `Edit` or `Window` menu, next to the name of the dialog.
@@ -65,6 +65,8 @@ TODO: add an animated gif showing how to hide a toolbar.
 All the actions that you can find in the toolbars, are also to find in the menus and the most used one can be triggered through keyboard shortcuts: after a short time you won't miss them anymore.
 
 TODO: add a link to a chapter in another manual, listing all the most important shortcuts.
+
+Notice: there is only one further (TODO: in 1.5 two?) toolbar that you will want to ennable while doing a specific tasks: while creating interactive PDFs, you will want to enable the PDF toolbar. But most people does not ever create interactive PDFs with Scribus.
 
 ## Move the tools toolbar to the left
 

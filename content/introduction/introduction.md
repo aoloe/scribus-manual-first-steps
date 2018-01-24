@@ -1,6 +1,7 @@
 # Introduction
 
-After having installed Scribus there are a few typical actions that need to be done. This short handbook gives you a list of tweaks that will help you have a better first experience with Scribus.
+In this short manual, we we will guide you through your first steps with Scribus.
+You'll learn how to start Scribus, create a dummy document and After having installed Scribus there are a few typical actions that need to be done. This short handbook gives you a list of tweaks that will help you have a better first experience with Scribus.
 
 This manual is part of a series of text on specific topics about Scribus. You can find the list of all the published works at []().  
 All those text are free under the Creative Common Share Alike license: your feedback, translations and contributions are always welcome!

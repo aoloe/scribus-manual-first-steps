@@ -10,7 +10,7 @@ If you have already closed it, don't worry: our next step is to close it by pres
 
 ## The preferences dialog
 
-Now, you're ready to open the preferences dialog from the file `File` menu:
+From the file `File` menu:
 
 ![Use the menu to Open the Preferences dialog.](images/menu-file-preferences.png)
 
