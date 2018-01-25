@@ -1,4 +1,4 @@
-# Urgent topics
+# Things that might be bothering you...
 
 This handbook only covers the very first steps with Scribus.
 
